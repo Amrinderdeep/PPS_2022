@@ -4,9 +4,9 @@
 #include<string.h>
 int main()
 {
-char a[20]="ashmeet";
+char a[20]="amrinder";
 printf("%d",strlen(a));
 return 0;
 }
 ```
-**Output : 7**
+**Output : 8**
